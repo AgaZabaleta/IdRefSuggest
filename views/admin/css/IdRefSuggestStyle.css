@@ -1,0 +1,15 @@
+.ui-autocomplete-loading {
+	background-image: url("loading.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 5vh;
+}
+
+.refsuggest-warning {
+	color: #b00;
+	padding: 2px;
+}
+
+.use-html.remove-use-html {
+	display: none;
+}
